@@ -12,12 +12,13 @@ Car Image Annotation is a Python-based project used to create bounding box annot
 
 ## Folder Structure
 
+```
 Car-Image-Annotation/
 │── images/
 │── annotate.ipynb
 │── README.md
 │── .gitignore
-
+```
 
 ## Requirements
 
